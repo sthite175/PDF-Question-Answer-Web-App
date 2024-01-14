@@ -1,0 +1,10 @@
+numpy
+pandas
+unstructured
+tiktoken
+pypdf
+pinecone-client
+openai
+langchain
+python-dotenv
+faiss-cpu

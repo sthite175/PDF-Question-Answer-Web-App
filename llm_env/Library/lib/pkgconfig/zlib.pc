@@ -1,0 +1,13 @@
+prefix=E:/PYTHON_DATA_SCIENCE/Generative_AI_2024/13_01_2024_LLM_Project_Budget/llm_env/Library
+exec_prefix=E:/PYTHON_DATA_SCIENCE/Generative_AI_2024/13_01_2024_LLM_Project_Budget/llm_env/Library
+libdir=E:/PYTHON_DATA_SCIENCE/Generative_AI_2024/13_01_2024_LLM_Project_Budget/llm_env/Library/lib
+sharedlibdir=E:/PYTHON_DATA_SCIENCE/Generative_AI_2024/13_01_2024_LLM_Project_Budget/llm_env/Library/lib
+includedir=E:/PYTHON_DATA_SCIENCE/Generative_AI_2024/13_01_2024_LLM_Project_Budget/llm_env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
